@@ -1,0 +1,15 @@
+.staff {
+  margin-left: 10px;
+  font-family: 'Dosis', sans-serif;
+}
+.staff li {
+  list-style: '🌟  ';
+}
+.staff li a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 1.25rem;
+}
+.staff li a:hover {
+  color: skyblue;
+}

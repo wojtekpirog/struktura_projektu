@@ -1,0 +1,20 @@
+.footer {
+  padding: 0;
+
+}
+.footer li {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.footer li a {
+  text-decoration: none;
+  color: #FFF;
+  font-family: 'Dosis', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  transition: color .15s linear;
+}
+.footer li a:hover {
+  color: skyblue;
+}

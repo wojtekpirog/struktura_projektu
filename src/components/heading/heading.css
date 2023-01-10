@@ -1,0 +1,19 @@
+.navigation {
+  padding: 0;
+}
+.navigation li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.navigation li a {
+  text-decoration: none;
+  color: #FFF;
+  font-family: 'Dosis', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  transition: color .15s linear;
+}
+.navigation li a:hover {
+  color: skyblue;
+}
